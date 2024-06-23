@@ -1,2 +1,7 @@
 # Seminararbeit
- 
+
+- **Seminar**: Vertiefte Themen in Mobilen und Verteilten Systemen SoSe 2024
+- **Thema**: Image generation via AI
+- **Titel der Arbeit**: Bildgenerierung mit künstlicher Intelligenz - Diffusionsmodelle am Beispiel Stable Diffusion
+
+"Diese Arbeit untersucht die Verwendung von Diffusionsmodellen zur Bildgenerierung am Beispiel von Stable Diffusion. Lange Zeit galten Generative Adversarial Networks (GANs) als führend in der Bildsynthese. In jüngster Zeit haben Diffusionsmodelle jedoch eine bessere Leistung gezeigt. Die vorliegende Arbeit bietet zunächst eine Einführung in die Grundlagen generativer Modelle sowie Diffusionsmodelle. Anschließend wird die Architektur, der Bildgenerierungsprozess sowie das Training und die Modellkonfiguration von Stable Diffusion detailliert beschrieben. Stable Diffusion nutzt latenten Diffusionsmodelle (LDMs) um hochqualitative und realistische Bilder zu erzeugen. Eine detaillierte Bewertung von Stable Diffusion für bestimmte Kategorien wie Gesichter steht jedoch noch aus. Im Rahmen dieser Arbeit werden drei Versionen von Stable Diffusion in Bezug auf die Generierung von realistischen Gesichtern in Gesamtszenen analysiert. Hierfür werden mit den einzelnen Modellen Bilder generiert und Gesichter daraus extrahiert. Die Ergebnisse zeigen, dass neuere Versionen von Stable Diffusion eine deutliche Verbesserung der Bildqualität erreichen. Die generierten Gesichter weisen einen signifikant höheren Detailgrad auf. Diese Beobachtung lässt sich auch durch eine quantitative Analyse der Daten mithilfe der Frechet Inception Distance (FID) unterstreichen."
